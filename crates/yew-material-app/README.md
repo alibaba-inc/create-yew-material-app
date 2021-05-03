@@ -8,7 +8,6 @@ note: create-yew-material-app is modified by [create-yew-app](https://github.com
 ```sh
 npx create-yew-material-app my-app
 cd my-app
-npm install
 npm run start
 ```
 
