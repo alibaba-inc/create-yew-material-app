@@ -1,6 +1,6 @@
 # create-yew-material-app
 
-Create Yew Material App is a way to create a single page Yew application, which includes the yew-material ui framework
+Create Yew Material App is a way to create a single page Yew application, which includes the yew-material ui framework.<br>
 note: create-yew-material-app is modified by [create-yew-app](https://github.com/jetli/create-yew-app)
 
 ## Quick Overview
