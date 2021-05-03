@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "install": "cd crates/yew-material-app && npm install",
+    "build": "cd crates/yew-material-app && npm run build",
+    "start": "cd crates/yew-material-app && npm run start",
+    "test": "cd crates/yew-material-app && npm run test"
+  }
+}
