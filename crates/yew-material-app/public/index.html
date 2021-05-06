@@ -151,7 +151,9 @@
             </svg>
         </div>
     </div>
+    <script src="%PUBLIC_URL%/browser.js"></script>
     <script>
+        //Solve the problem that the background color of the page is inconsistent with the theme before the app initialization is completed
         //解决app初始化未完成前页面背景色与主题不一致问题
         let theme = localStorage["__mdc_theme_ident"];
         let is_iframe = location.search.indexOf("_services=iframe") > -1;
