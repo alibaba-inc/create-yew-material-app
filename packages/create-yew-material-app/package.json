@@ -1,6 +1,6 @@
 {
   "name": "create-yew-material-app",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Create Yew Material App is a way to create a single page Yew application, which includes the yew-material ui framework",
   "bin": {
     "create-yew-material-app": "./index.js"
