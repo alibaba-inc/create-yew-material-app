@@ -21,7 +21,7 @@ serde_derive = "1.0.115"
 serde = "1.0.115"
 serde_json = "1.0.57"
 wasm-bindgen = { version = "0.2.69", features = ["serde-serialize"]}
-yew = { git = "https://github.com/yewstack/yew/", branch = "master" }
+yew = { git = "https://github.com/alibaba-inc/yew/", branch = "dev" }
 yew-material-macro = { git = "https://github.com/alibaba-inc/yew-material/", branch = "master" }
 yew-material-utils = { git = "https://github.com/alibaba-inc/yew-material/", branch = "master" }
 
